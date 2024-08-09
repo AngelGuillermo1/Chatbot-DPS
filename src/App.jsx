@@ -167,7 +167,7 @@ const App = () => {
       id: '16',
       options: [
         { value: 'si', label: 'Sí', trigger: '17' },
-        { value: 'no', label: 'No', end: true },
+        { value: 'no', label: 'No', trigger: '33' },
       ],
     },
     {
@@ -250,12 +250,20 @@ const App = () => {
       message: 'El campus generalmente cuenta con cafeterías y comedores que ofrecen una variedad de opciones de alimentos. Los horarios y menús específicos pueden variar.',
       trigger: '15',
     },
+    {
+      id: '33',
+      message: 'Gracias por usar nuestro chatbot, feliz día',
+      trigger: '15',
+      end: true
+    },
   ];
 
   return (
     <ThemeProvider theme={theme}>
       <Chatbot
+        
         steps={steps}
+        headerTitle = "Chatbot Don Bosco"
         speechSynthesis={{ enable: true, lang: 'es' }}
         handleEnd={() => console.log('Chatbot conversation ended.')}
       />

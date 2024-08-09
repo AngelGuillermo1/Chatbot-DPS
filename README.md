@@ -1,17 +1,11 @@
-# React + Vite
+Integrantes
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Cartagena Rivera, José Ángel CR190362
 
-Currently, two official plugins are available:
+Chaves Flores, Jeanluca CF190725
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Mejía Ortiz, Karla Lissette MO190663
 
-- Integrantes
-- Cartagena Rivera, José Ángel	CR190362
-- Chaves Flores,	Jeanluca	CF190725
-- Mejía Ortiz,	Karla Lissette	MO190663
-- Sánchez Mangandi,	Ángel Guillermo	SM192656
+Sánchez Mangandi, Ángel Guillermo SM192656
 
-URL a video de Chatbot:
-https://www.youtube.com/watch?v=9SyxNEjJSVA
+URL a video de Chatbot: https://www.youtube.com/watch?v=9SyxNEjJSVA
