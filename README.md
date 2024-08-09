@@ -13,3 +13,5 @@ Currently, two official plugins are available:
 - Mejía Ortiz,	Karla Lissette	MO190663
 - Sánchez Mangandi,	Ángel Guillermo	SM192656
 
+URL a video de Chatbot:
+https://www.youtube.com/watch?v=9SyxNEjJSVA
