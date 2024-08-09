@@ -1,3 +1,6 @@
+Instalar dependencia:
+npm install react-simple-chatbot --save
+
 Integrantes
 
 Cartagena Rivera, José Ángel CR190362
